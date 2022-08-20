@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @konyeeee
+- 👋 Hi, I’m Konye
 - 👀 I’m interested in designing and creating applications to solve real-world problems.
 - 🌱 I’m currently learning Software Engineering at ALX Africa.
 - 💞️ I’m looking to collaborate on GitHub
